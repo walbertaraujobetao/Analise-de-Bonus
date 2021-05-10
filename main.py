@@ -1,5 +1,5 @@
 import pandas as pd
-from twilio.rest import Client # tem que fazer cadastro na Twilio
+from twilio.rest import Client # tem que fazer cadastro na Twilio!!!!
 
 account_sid = ""
 auth_token = ""
